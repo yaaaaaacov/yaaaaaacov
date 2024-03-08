@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @yaaaaaacov
 - 👀 I’m interested in Physics, Math, and Quantum Information
-- 🌱 I’m currently learning about numerical methods in physics
+- 🌱 I’m currently learning about numerical methods in classical mechanics
